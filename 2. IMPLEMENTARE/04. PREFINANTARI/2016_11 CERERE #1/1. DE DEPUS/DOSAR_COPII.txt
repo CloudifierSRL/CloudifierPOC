@@ -1,0 +1,13 @@
+2 exemplare dosar cerere prefinantare atat print cat si CD:
+ - cele 3 state:
+	2016_10_CLOUDIFIER10.pdf
+	2016_11_CLOUDIFIER11.pdf
+	2016_12_CLOUDIFIER12.pdf
+ - notificare trezorerie conturi:
+	Cloudifier_Conturi Trezorerie Ilfov.pdf
+
+4 exemplare cerere prefinantare:
+	20161108_Cloudifier_Pref1_Cerere.docx
+
+2 exemplare notificare modificare hardware:
+	20161108_N03_NOTIF_HARDWARE.docx
